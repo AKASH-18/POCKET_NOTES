@@ -59,7 +59,7 @@ Common technologies used in this type of project include:
 
 A typical structure for this project may look like this:
 
-bash
+```bash
 POCKET_NOTES/
 │
 ├── public/
