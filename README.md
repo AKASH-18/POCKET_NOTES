@@ -76,6 +76,7 @@ POCKET_NOTES/
 ├── README.md
 ├── package.json
 └── index.html
+```
 
 Getting Started
 
