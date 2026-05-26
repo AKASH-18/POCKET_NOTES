@@ -6,6 +6,7 @@ Pocket Notes is a simple and user-friendly note-taking web application that help
 
 - Live Project: https://pocket-notes-8g7r.vercel.app/
 - Alternate Deployment: https://pocket-notes-8g7r-git-main-akash-18s-projects.vercel.app/
+- Github Link ------         https://pocket-notes-8g7r.vercel.app/
 
 ## Author
 
@@ -91,7 +92,6 @@ npm run dev
 5. Open the app in your browser
 http://localhost:5173
 
-Github Link ------         https://pocket-notes-8g7r.vercel.app/
 
 
-Live Link------------     https://pocket-notes-8g7r-git-main-akash-18s-projects.vercel.app/
+
